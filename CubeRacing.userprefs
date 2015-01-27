@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\box\ItemBox.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Item\BaseItem.cs" Line="19" Column="3" />
+      <File FileName="Assets\Scripts\Item\BaseItemSpeedBoost.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Item\DashShroom.cs" Line="21" Column="1" />
+      <File FileName="Assets\Scripts\box\ItemBox.cs" Line="21" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
